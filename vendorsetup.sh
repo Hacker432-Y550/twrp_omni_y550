@@ -1,2 +1,2 @@
-add_lunch_combo cm_y550-userdebug
-add_lunch_combo cm_y550-eng
+add_lunch_combo omni_y550-userdebug
+add_lunch_combo omni_y550-eng
