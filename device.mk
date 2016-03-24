@@ -7,7 +7,7 @@ else
 endif
 
 PRODUCT_COPY_FILES += \
-	device/huawei/y550/dt.img:dt.img
+	device/huawei/y550/dt.img:dt.img \
 	device/huawei/y550/recovery/root/etc/twrp.fstab:recovery/root/etc/twrp.fstab
    
 $(call inherit-product, build/target/product/full.mk)
