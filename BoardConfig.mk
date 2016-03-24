@@ -41,7 +41,7 @@ BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"
 TARGET_RECOVERY_PIXEL_FORMAT := "BGRA_8888"
 
 # TWRP-Specific
-TARGET_RECOVERY_FSTAB := device/huawei/y550/recovery/root/etc/recovery.fstab
+TARGET_RECOVERY_FSTAB := device/huawei/y550/recovery/root/etc/twrp.fstab
 DEVICE_RESOLUTION := 480x854
 RECOVERY_GRAPHICS_USE_LINELENGTH := true
 RECOVERY_SDCARD_ON_DATA := true
